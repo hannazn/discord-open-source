@@ -555,6 +555,14 @@
       "quote": "This server allows the engine users to help one another, as well as showcase creations and communicate with some of the official developers behind the engine.",
       "inviteCode": "zH7NUgz",
       "githubUrl": "https://github.com/godotengine/"
+    },
+    {
+      "logo": "uikit.svg",
+      "title": "UIkit",
+      "quote": "Discord will be the main communication channel for our community and therefore greatly helps us to connect UIkit developers with each other. It will also serve the purpose to discuss ideas or showcase any creations made with our framework.",
+      "quoteSourceUrl": "https://getuikit.com",
+      "inviteCode": "NEt4Pv7",
+      "githubUrl": "https://github.com/uikit"
     }
   ]
 }
